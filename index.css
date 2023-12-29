@@ -73,7 +73,7 @@
 @media (orientation: portrait) {
     body {
         flex-direction: column;
-        background-image: url(/resources/bg.jpg);
+        background-image: url(bg.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -109,7 +109,7 @@ body h6{
     display: flex;
     justify-content: center;
     margin: auto;
-    background-image: url(/resources/aadhaar.png) ;
+    background-image: url(aadhaar.png) ;
     background-size: cover;
 }
 
@@ -124,7 +124,7 @@ body h6{
     justify-content: center;
     margin: auto;
     top: 5px;
-    background-image: url(/resources/ECI.png) ;
+    background-image: url(ECI.png) ;
     background-size: cover;
 }
 
@@ -139,7 +139,7 @@ body h6{
     justify-content: center;
     margin: auto;
     top: 5px;
-    background-image: url(/resources/pan.png) ;
+    background-image: url(pan.png) ;
     background-size: cover;
 }
 
@@ -154,7 +154,7 @@ body h6{
     justify-content: center;
     margin: auto;
     top: 5px;
-    background-image: url(/resources/abha.png) ;
+    background-image: url(abha.png) ;
     background-size: cover;
 }
 
@@ -169,7 +169,7 @@ body h6{
     justify-content: center;
     margin: auto;
     top: 5px;
-    background-image: url(/resources/DL.jpg) ;
+    background-image: url(DL.jpg) ;
     background-size: cover;
 }
 
