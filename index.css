@@ -73,7 +73,7 @@
 @media (orientation: portrait) {
     body {
         flex-direction: column;
-        background-image: url(resources/bg.jpg);
+        background-image: url(/resources/bg.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
